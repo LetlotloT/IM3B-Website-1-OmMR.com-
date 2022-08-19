@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+font-family: sans-serif;
+color: white;
+}
+.Home{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+div div h1 {
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    font-style: italic;
+    
+}
+div div h2 {
+    font-size: .8rem;
+    
+    font-family: sans-serif;
+    font-style: italic;
+    
+}
+
+.box{
+    width: 15rem;
+    height: 15rem;
+    color: white;
+    border:blue;
+    border-style: double;
+    margin: 10rem;
+
+}
